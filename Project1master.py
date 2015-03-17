@@ -8,7 +8,7 @@
 
 
 
-#titties
+
 
 
 
@@ -18,6 +18,7 @@
 #print "This is the master file for our project"
 #http://www.java2s.com/Code/Python/GUI-Tk/BaseWindows.htm
 from Tkinter import *
+
  
  #create the root window
 root = Tk()
